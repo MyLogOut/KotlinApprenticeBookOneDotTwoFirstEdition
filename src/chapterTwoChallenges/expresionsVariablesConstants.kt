@@ -8,11 +8,12 @@ fun main() {
 
     println(averageAge)
 
-    val testNumber = 93
+    val testNumber = 3
     val evenOdd = testNumber % 2
     println(evenOdd)
     for (count in 0..testNumber){
         println("${(count + testNumber) % 2} : ${(count + testNumber % 2)}")
     }
 
+    chapterTwoChallenges()
 }
