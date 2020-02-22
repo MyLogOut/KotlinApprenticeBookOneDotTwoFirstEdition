@@ -1,4 +1,4 @@
-package sectionTwo.chapterEight
+package sectionTwo.chapterEightArraysAndLists
 
 fun main() {
     challenges()

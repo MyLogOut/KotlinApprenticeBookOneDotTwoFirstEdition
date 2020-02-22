@@ -1,4 +1,4 @@
-package sectionTwo.chapterEight
+package sectionTwo.chapterEightArraysAndLists
 
 fun main() {
     val players = mutableListOf("Aly", "Buck", "Cinda", "Don")
